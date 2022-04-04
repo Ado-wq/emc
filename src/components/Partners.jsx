@@ -24,9 +24,6 @@ const Partners = () => {
           path="/index.html"
           text="BRF Malmöhus 24"
         />
-
-
-
         <Partnercards
           src="src\img\10270_465504280178104_215354971_n-KC-logo.jpg"
 
@@ -34,20 +31,15 @@ const Partners = () => {
           path="/index.html"
           text="Karlsson Climate"
         />
-
-
-
         <Partnercards
           src="src\img\sbc_header_logo--dark.svg"
 
           href="https://bbkgroup.com/"
           path="/index.html"
-
         />
 
         <Partnercards
-          src="src\img\HSB(logo).svg"
-
+          src="src\img\hsb-logo.v2.webp"
           href="https://bbkgroup.com/"
           path="/index.html"
           text="HSB Astern"
